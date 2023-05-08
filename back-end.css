@@ -1,0 +1,37 @@
+/* Style for the underlined vowels */
+span {
+    text-decoration: underline;
+    color: red;
+}
+
+/* Style for the sentence */
+.sentence {
+    font-size: 24px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+/* Style for error messages */
+.error {
+    color: red;
+    font-weight: bold;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 24px;
+}
+
+.back-to-home {
+    margin-top: 1em;
+    text-align: center;
+  }
+  
+  .back-to-home a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .back-to-home a:hover {
+    text-decoration: underline;
+  }
+  

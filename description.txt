@@ -1,0 +1,9 @@
+This is a text processing tool that utilises advanced security measures to highlight all vowels in sentences. The app is designed with robust security features to protect user data and prevent any unauthorised access to the system.
+
+To use the app, users can input any sentence or text into the app, and the system will automatically scan the input and underline all vowels in the text, making them easily identifiable for the user. The app uses state-of-the-art algorithms and programming techniques to ensure accurate and efficient processing of text inputs.
+
+In terms of security, the app has been developed with the highest level of protection to safeguard user data and prevent any potential security breaches. The app features a secure login system with multi-factor authentication, data encryption, and regular security updates to ensure the system is always up-to-date with the latest security measures.
+
+Furthermore, the app also employs techniques such as input validation and output encoding to prevent any malicious inputs or outputs that could compromise the system. These measures ensure that the app remains secure and reliable for users to utilize with confidence.
+
+Overall, your new PHP app provides a user-friendly and secure solution for highlighting vowels in sentences. With its robust security features and efficient text processing capabilities, the app is an excellent tool for users who need to quickly identify vowels in their texts while keeping their data secure.
